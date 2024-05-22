@@ -14,4 +14,4 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-<h2>Thanks for visiting my GitHub profile! 😊</h2>
+## ***Thanks for visiting my GitHub profile!*** 😊
