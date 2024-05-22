@@ -6,6 +6,10 @@
 
 <p>I have been working as a frontend developer for the past 1 years. I specialize in HTML, CSS, JavaScript, React Js, and Next Js.</p>
 
+<h2 align="">What I'm Working On</h2>
+
+<p>Currently, I'm focusing on refine my skills in React, Next and exploring new front-end technologies. I'm also working on personal projects to enhance my portfolio and improve my expertise.</p>
+
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg"/>
 
 <h2 align="">My Skills</h2>
