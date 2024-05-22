@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">I'm Samira Milani</h2>
 
-<p>FrontEnd Developer 😄</p>
+<p align="center">FrontEnd Developer 😄</p>
+
+<h2 align="center">My Skills</h2>
+<h1/>
+
+
