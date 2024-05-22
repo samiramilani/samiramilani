@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Samira Milani
 
-<h4>I'm a frontend developer located Salmas Welcome to my GitHub profile! 🚀</h4>
+<p>I'm a frontend developer located Salmas Welcome to my GitHub profile! 🚀</p>
 
 <h2 align="">About Me</h2>
 
-<h4>I have been working as a frontend developer for the past 2 years. I specialize in HTML, CSS, JavaScript, React Js, and Next Js</h4>
+<p>I have been working as a frontend developer for the past 1 years. I specialize in HTML, CSS, JavaScript, React Js, and Next Js.</p>
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg"/>
 
