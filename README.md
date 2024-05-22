@@ -15,3 +15,4 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 ## ***Thanks for visiting my GitHub profile!*** 😊
+<p>***Thanks for visiting my GitHub profile!*** 😊</p>
