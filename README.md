@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Samira Milani
 
-<p>I'm a frontend developer located Salmas Welcome to my GitHub profile! 🚀</p>
+<h4>I'm a frontend developer located Salmas Welcome to my GitHub profile! 🚀</h4>
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg"/>
 
