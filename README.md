@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Samira Milani
 
-<p>I'm a frontend developer located Tehran. Welcome to my GitHub profile! 🚀</p>
+<p>I'm a frontend developer located Salmas Welcome to my GitHub profile! 🚀</p>
 
 
 
